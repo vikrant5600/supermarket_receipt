@@ -1,0 +1,6 @@
+ 1 juice 50 5
+ 2 butter 100 2
+ 3 milk 30 0
+ 4 banana 20 5
+ 5 coke 48 0
+ 6 sprite 45 0
